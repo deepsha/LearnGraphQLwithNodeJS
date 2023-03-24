@@ -1,2 +1,2 @@
 # LearnGraphQL
- learning GraphQL
+ learning GraphQL using NodeJS
