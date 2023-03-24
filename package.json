@@ -1,0 +1,19 @@
+{
+  "name": "learngraphql",
+  "version": "1.0.0",
+  "description": "learning GraphQL using NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon Server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0",
+    "nodemon": "^2.0.22",
+    "save-dev": "^0.0.1-security"
+  }
+}
